@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <question type="truefalse">
  <answer fraction="100">
     <text>true</text>
@@ -7,4 +8,15 @@
     <text>false</text>
     <feedback><text>Ooops!</text></feedback>
  </answer>
+=======
+<question type="truefalse">
+ <answer fraction="100">
+    <text>true</text>
+    <feedback><text>Correct!</text></feedback>
+ </answer>
+ <answer fraction="0">
+    <text>false</text>
+    <feedback><text>Ooops!</text></feedback>
+ </answer>
+>>>>>>> 388ee73acc6611445c54e7787658a0540a1a728f
 </question>
